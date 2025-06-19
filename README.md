@@ -1,1 +1,1 @@
-# esp8266-wifi-monitor
+# esp8266-wifi-signal strength analyzer
